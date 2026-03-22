@@ -200,5 +200,5 @@ Dataset: **MVTec AD – Carpet**
 
 ## 📄 License
 
-MIT License © 2025 – Nhóm DA_tech
+MIT License © 2025 – Nhóm 1_AI_NC
 ````
