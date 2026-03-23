@@ -175,21 +175,7 @@ Dataset: **MVTec AD – Carpet**
 |---|---|---|
 | Ảnh bình thường | 0.6188 | ✅ OK |
 | Ảnh có lỗi | 0.8731 | ❌ NG |
-
 ---
-
-## 👥 Nhóm thực hiện
-
-| MSSV | Họ tên | Đóng góp |
-|---|---|---|
-| 25C15005 | Nguyễn Nhật Khang | SSL & Ứng dụng phát hiện lỗi ngoại quan (20%) |
-| 25C15013 | Nguyễn Nhật Duy | CutPaste (20%) |
-| 25C15049 | Lê Thanh Long | SimSPD (20%) |
-| 25C15012 | Trần Quang Hưng | PatchCore (20%) |
-| 25C15068 | Trần Hồ Thanh Vũ | Phân công & Demo PatchCore (20%) |
-
----
-
 ## 📚 Tài liệu tham khảo
 
 - [PatchCore: Towards Total Recall in Industrial Anomaly Detection](https://arxiv.org/abs/2106.08265) — Roth et al., CVPR 2022
