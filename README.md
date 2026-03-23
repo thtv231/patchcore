@@ -182,8 +182,8 @@ Dataset: **MVTec AD – Carpet**
 
 | MSSV | Họ tên | Đóng góp |
 |---|---|---|
-| 25C15005 | Nguyễn Nhật Duy | SSL & Ứng dụng phát hiện lỗi ngoại quan (20%) |
-| 25C15013 | Nguyễn Nhật Khang | CutPaste (20%) |
+| 25C15005 | Nguyễn Nhật Khang | SSL & Ứng dụng phát hiện lỗi ngoại quan (20%) |
+| 25C15013 | Nguyễn Nhật Duy | CutPaste (20%) |
 | 25C15049 | Lê Thanh Long | SimSPD (20%) |
 | 25C15012 | Trần Quang Hưng | PatchCore (20%) |
 | 25C15068 | Trần Hồ Thanh Vũ | Phân công & Demo PatchCore (20%) |
